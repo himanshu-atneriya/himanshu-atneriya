@@ -2,7 +2,7 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2>
  I have completed my Bachelor Of Engineering in Computer Science from Govt Ujjain Engineering College,Ujjain (MP).<br>
- I have keen interest in software development and have deep understanding of <b>C, C++, Java</b>. Also having good understanding of <b>Data Structures</b> and  have solid foundation in <b>object-oriented programming</b> and <b>layered architecture</b> and having the knowledge of java backend framework <b>Spring Boot with Spring Basics.</b> I also havev good understanding of fronted technologies such as <b>HTML5</b>,<b>CSS</b> and <b>Javascript</b>.<br>
+ I have keen interest in software development and have deep understanding of <b>C, C++, Java</b>. Also having good understanding of <b>Data Structures</b> and  have solid foundation in <b>object-oriented programming</b> and <b>layered architecture</b> and having the knowledge of java backend framework <b>Spring Boot with Spring Basics.</b> I also havev good understanding of fronted technologies such as <b>HTML5</b>, <b>CSS</b> and <b>Javascript</b>.<br>
 Currently Im seeking as entry level position to begin my career as software developer.
  
  <h2>Skills</h2>
